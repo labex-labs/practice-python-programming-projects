@@ -1,16 +1,13 @@
-
----
+# Practice Python Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/E4pVLzVNCjyM.png">
 </div>
 
-## Python
-
 Python is a programming language that has become very popular in recent years. It's used for everything from web development to data science and machine learning. This skill tree will teach you how to use Python from the command line, as well as some basic programming concepts like variables and functions.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                              |
-|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                               |
+|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------|
 |      01 | Create a Sudoku Game Using Python and Pygame          | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-create-a-sudoku-game-using-python-and-pygame)         |
 |      02 | Flappy Bird Detection in Video Using Match Templat... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-flappy-bird-detection-in-video-using-match-template)  |
 |      03 | Build a Digital Clock With Python                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-digital-clock-with-python)                    |
@@ -105,8 +102,9 @@ Python is a programming language that has become very popular in recent years. I
 |      92 | Weekly Report Template Creation                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-weekly-report-template-creation)                      |
 |      93 | Yin Book Encryption Implementation and Testing        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-yin-book-encryption)                                  |
 
-### More
+## More
 
-- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#python)
 - 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
