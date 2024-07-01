@@ -6,8 +6,8 @@
 
 Python is a programming language that has become very popular in recent years. It's used for everything from web development to data science and machine learning. This skill tree will teach you how to use Python from the command line, as well as some basic programming concepts like variables and functions.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                               |
-|---------|-------------------------------------------------------|---------|------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                              |
+|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
 |      01 | Create a Sudoku Game Using Python and Pygame          | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-create-a-sudoku-game-using-python-and-pygame)         |
 |      02 | Flappy Bird Detection in Video Using Match Templat... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-flappy-bird-detection-in-video-using-match-template)  |
 |      03 | Build a Digital Clock With Python                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-digital-clock-with-python)                    |
@@ -44,7 +44,7 @@ Python is a programming language that has become very popular in recent years. I
 |      34 | Classifying Iris Using SVM                            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-classifying-iris-using-svm)                           |
 |      35 | Data Cleaning and Purification with Python            | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-csv-data-purification)                                |
 |      36 | Optimizing Gradient Descent for Global Optimizatio... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-haste-makes-waste)                                    |
-|      37 | Implementing Minkowski Distance Metric                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-minkowski-distances-calculating)                      |
+|      37 | Implementing Minkowski Distance Metric                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implementing-minkowski-distance-metric)               |
 |      38 | One Cut Into Two                                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-one-cut-into-two)                                     |
 |      39 | Ordinary Least Squares in Python                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ordinary-least-squares-python-implementation)         |
 |      40 | Simple Handwritten Character Recognition Classifie... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier)  |
