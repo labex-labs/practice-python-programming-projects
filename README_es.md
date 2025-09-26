@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/E4pVLzVNCjyM.png">
 </div>
 
-Python es un lenguaje de programación versátil y de alto nivel. Este Skill Tree ofrece una forma sistemática de aprender Python. Es ideal para principiantes en programación, proporcionando una hoja de ruta estructurada para comprender la sintaxis de Python, las estructuras de datos y la programación orientada a objetos. Cursos prácticos sin video y ejercicios de codificación en un entorno interactivo de Python te ayudarán a desarrollar habilidades prácticas para escribir código Python limpio y eficiente para diversas aplicaciones.
+Aprende Python, un lenguaje de programación versátil y de alto nivel, con esta ruta de aprendizaje estructurada diseñada para principiantes. Estos cursos de Python proporcionan una hoja de ruta sistemática para dominar conceptos clave como la sintaxis de Python, las estructuras de datos y la programación orientada a objetos. Desarrolla habilidades prácticas a través de ejercicios interactivos y no en video en un entorno de práctica de Python interactivo, lo que te permitirá escribir código limpio y eficiente para diversas aplicaciones.
 
 ## Ejercicios
 
