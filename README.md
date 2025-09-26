@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/E4pVLzVNCjyM.png">
 </div>
 
-Python is a versatile, high-level programming language. This Skill Tree offers a systematic way to learn Python. It's perfect for programming beginners, providing a structured roadmap to grasp Python syntax, data structures, and object - oriented programming. Hands - on, non - video courses and coding exercises in an interactive Python playground help you develop practical skills to write clean and efficient Python code for various applications.
+Learn Python, a versatile, high-level programming language, with this structured learning path designed for beginners. These Python courses provide a systematic roadmap to master core concepts including Python syntax, data structures, and object-oriented programming. Develop practical skills through hands-on, non-video exercises in an interactive Python playground, enabling you to write clean and efficient code for various applications.
 
 ## Exercises
 
