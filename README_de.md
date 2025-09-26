@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/E4pVLzVNCjyM.png">
 </div>
 
-Python ist eine vielseitige, hochgradige Programmiersprache. Dieser Skill Tree bietet einen systematischen Ansatz zum Erlernen von Python. Er ist ideal für Programmieranfänger und bietet eine strukturierte Roadmap, um die Python-Syntax, Datenstrukturen und objektorientierte Programmierung zu verstehen. Praktische, nicht-videobasierte Kurse und Programmierübungen in einem interaktiven Python-Spielplatz helfen Ihnen, praktische Fähigkeiten zu entwickeln, um sauberen und effizienten Python-Code für verschiedene Anwendungen zu schreiben.
+Lernen Sie Python, eine vielseitige, hochrangige Programmiersprache, mit diesem strukturierten Lernpfad, der für Anfänger konzipiert wurde. Diese Python-Kurse bieten einen systematischen Fahrplan, um Kernkonzepte wie Python-Syntax, Datenstrukturen und objektorientierte Programmierung zu meistern. Entwickeln Sie praktische Fähigkeiten durch praktische, nicht-video-basierte Übungen in einer interaktiven Python-Umgebung, die es Ihnen ermöglicht, sauberen und effizienten Code für verschiedene Anwendungen zu schreiben.
 
 ## Übungen
 
